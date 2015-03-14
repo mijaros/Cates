@@ -57,6 +57,8 @@ dependencies {
 
     griffon 'org.codehaus.griffon.plugins:griffon-glazedlists-plugin:1.1.0'
     griffon 'org.codehaus.griffon.plugins:griffon-miglayout-plugin:1.1.1'
+    griffon 'org.codehaus.griffon.plugins:griffon-datasource-plugin:1.2.0'
+    griffon 'org.codehaus.griffon.plugins:griffon-mybatis-plugin:1.2.0'
     testCompile "org.codehaus.griffon:griffon-fest-test:${griffon.version}"
     testCompile 'org.spockframework:spock-core:0.7-groovy-2.0'
     testCompile 'com.jayway.awaitility:awaitility-groovy:1.6.3'
