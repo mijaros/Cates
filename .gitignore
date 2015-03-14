@@ -3,4 +3,6 @@
 # Package Files #
 .lazybones/
 .gradle
+.idea
+*.iml
 build/
