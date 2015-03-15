@@ -1,5 +1,6 @@
 Basic Griffon Swing/Groovy project
 ----------------------------------
+[![Build Status](https://travis-ci.org/xjaros1/Cates.svg?branch=master)](https://travis-ci.org/xjaros1/Cates)
 
 You have just created a basic Griffon application with Swing as UI toolkit
 and Groovy as main language. The project has the following file structure
